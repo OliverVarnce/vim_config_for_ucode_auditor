@@ -11,3 +11,13 @@ Installation:
 2. git clone git@github.com:OliverVarnce/vim_config_for_ucode_auditor.git ~/.vimrc
 
 
+
+
+Installed Plugins:
+
+Vundle is a plugin for managing plugins (and it happens). With it, you can install plugins simply by specifying their names in ~ / .vimrc.
+Ultisnips - template code generator.
+Clang complete - a plugin that analyzes the project code using Clang and allows you to add code based on the types of arguments to return values, etc. Plus knows how to highlight errors directly in the editor.
+NERD Tree - file browser.
+
+
