@@ -9,6 +9,8 @@ Installation:
 
 1. git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 2. git clone git@github.com:OliverVarnce/vim_config_for_ucode_auditor.git ~/.vimrc
+3. vim
+4 :BundleInstall
 
 
 
